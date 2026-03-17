@@ -104,23 +104,13 @@ If the offer is too low, the contract suggests a counteroffer.
 
 
 # High-Level Overview:
-First-of-its-kind AI-powered pricing contract.
-<img width="1832" height="840" alt="image" src="https://github.com/user-attachments/assets/f8104775-5c79-4873-94ca-4ff1a58be48d" />
+<img width="1920" height="1200" alt="Screenshot (65)" src="https://github.com/user-attachments/assets/06085f21-e1fc-4157-91e0-dbfa2fa64ef1" />
+
+<img width="1920" height="1200" alt="Screenshot (66)" src="https://github.com/user-attachments/assets/ddc7064f-40be-4674-b571-60887b6b6792" />
+
+<img width="1920" height="1200" alt="Screenshot (67)" src="https://github.com/user-attachments/assets/3626d196-ec42-487e-93dd-61b681d3128d" />
 
 
-
-Mimics real-world price negotiations using dynamic on-chain pricing.
-<img width="1830" height="841" alt="image" src="https://github.com/user-attachments/assets/89f71d71-d9bd-48b6-bb25-96e5203f5637" />
-
-
-
-Can be extended to AI oracles for real-time market data.
-<img width="1831" height="840" alt="image" src="https://github.com/user-attachments/assets/cc87ef55-806d-4446-a6ca-dcc000a39566" />
-
-
-
-Inspired by AI-enhanced commerce and eBay-like decentralized auctions.
-<img width="1831" height="842" alt="image" src="https://github.com/user-attachments/assets/cef3b5d8-c892-417d-a29d-556bafae5015" />
 
 
 # RESULT:
